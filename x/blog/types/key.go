@@ -16,3 +16,9 @@ const (
 	// PostPrefix is used for keys in the KV store
 	PostPrefix = "post-"
 )
+
+const (
+	CommentPrefix = "comment-value-"
+	CommentCountPrefix = "comment-count-"
+)
+		
